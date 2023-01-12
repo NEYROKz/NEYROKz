@@ -22,3 +22,7 @@
 - 💬 Ask me about **C#, C++**
 
 - 📫 How to reach me **mihail.kuznetsov.011z@gmail.com**
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
